@@ -1,0 +1,2 @@
+What is a remote repository? 
+A remote repository are versions of your projected hosted by the internet, so anyone can gain access to it if they work on the projects.
